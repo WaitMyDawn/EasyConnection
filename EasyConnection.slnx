@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/EasyConnection.Core/EasyConnection.Core.csproj" />
+    <Project Path="src/EasyConnection.Host/EasyConnection.Host.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/EasyConnection.Core.Tests/EasyConnection.Core.Tests.csproj" />
+  </Folder>
+</Solution>

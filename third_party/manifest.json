@@ -1,0 +1,1055 @@
+{
+  "pubRuntime": [
+    {
+      "name": "args",
+      "version": "2.7.0",
+      "licenseTextHashes": [
+        "dfb09c74e29386cd3e2719f32d4995d59526179753931d31840757c77fbf2791"
+      ]
+    },
+    {
+      "name": "characters",
+      "version": "1.4.1",
+      "licenseTextHashes": [
+        "0371d1da6a57fb791db29d29b95333429205f51f3cb2eb3a0c12d91838a38744"
+      ]
+    },
+    {
+      "name": "clock",
+      "version": "1.1.3",
+      "licenseTextHashes": [
+        "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd"
+      ]
+    },
+    {
+      "name": "code_assets",
+      "version": "2.2.0",
+      "licenseTextHashes": [
+        "21ae23b0b9ff67a2dc75ab085d1e8db8ac548c5faf370af17f28dd2ef3b52b7b"
+      ]
+    },
+    {
+      "name": "collection",
+      "version": "1.19.1",
+      "licenseTextHashes": [
+        "ff15faa32a2e638107b7789592b14426162a75ba620044ee2340a20ec6ce5e73"
+      ]
+    },
+    {
+      "name": "crypto",
+      "version": "3.0.8",
+      "licenseTextHashes": [
+        "ad6a71997da90924b2cfb1fb47ec46537f70faf469efe016168794ae45ed6888"
+      ]
+    },
+    {
+      "name": "cupertino_ui",
+      "version": "1.1.6",
+      "licenseTextHashes": [
+        "420f7739f169097f0aad1242045169cd643c8f1d94e62866fad265ae4c369b7d"
+      ]
+    },
+    {
+      "name": "ffi",
+      "version": "2.2.0",
+      "licenseTextHashes": [
+        "0371d1da6a57fb791db29d29b95333429205f51f3cb2eb3a0c12d91838a38744"
+      ]
+    },
+    {
+      "name": "ffi_leak_tracker",
+      "version": "0.1.2",
+      "licenseTextHashes": [
+        "332f290333e64ed007b4f59aeeebd8fd3ceaadfbfa226a6cf2a3ab1583281624"
+      ]
+    },
+    {
+      "name": "flutter",
+      "version": "0.0.0",
+      "licenseTextHashes": [
+        "a3a9fd82f800a47377f7d3f60c60a5c91cae0495be8f329031e1448ce0f5dab9"
+      ]
+    },
+    {
+      "name": "flutter_localizations",
+      "version": "0.0.0",
+      "licenseTextHashes": [
+        "a3a9fd82f800a47377f7d3f60c60a5c91cae0495be8f329031e1448ce0f5dab9"
+      ]
+    },
+    {
+      "name": "flutter_secure_storage",
+      "version": "10.3.4",
+      "licenseTextHashes": [
+        "55dafb084270616f95b9bea53654adda8bdcad95c022a83c4cf8769073f829fa"
+      ]
+    },
+    {
+      "name": "flutter_secure_storage_darwin",
+      "version": "0.3.2",
+      "licenseTextHashes": [
+        "3754c516086c62307896512b68024837bee5d2bea42a55cfd03f7448b92b06c8"
+      ]
+    },
+    {
+      "name": "flutter_secure_storage_linux",
+      "version": "3.0.3",
+      "licenseTextHashes": [
+        "55dafb084270616f95b9bea53654adda8bdcad95c022a83c4cf8769073f829fa"
+      ]
+    },
+    {
+      "name": "flutter_secure_storage_platform_interface",
+      "version": "2.1.1",
+      "licenseTextHashes": [
+        "55dafb084270616f95b9bea53654adda8bdcad95c022a83c4cf8769073f829fa"
+      ]
+    },
+    {
+      "name": "flutter_secure_storage_web",
+      "version": "2.1.1",
+      "licenseTextHashes": [
+        "55dafb084270616f95b9bea53654adda8bdcad95c022a83c4cf8769073f829fa"
+      ]
+    },
+    {
+      "name": "flutter_secure_storage_windows",
+      "version": "4.2.2",
+      "licenseTextHashes": [
+        "55dafb084270616f95b9bea53654adda8bdcad95c022a83c4cf8769073f829fa"
+      ]
+    },
+    {
+      "name": "flutter_web_plugins",
+      "version": "0.0.0",
+      "licenseTextHashes": [
+        "a3a9fd82f800a47377f7d3f60c60a5c91cae0495be8f329031e1448ce0f5dab9"
+      ]
+    },
+    {
+      "name": "hooks",
+      "version": "2.2.0",
+      "licenseTextHashes": [
+        "21ae23b0b9ff67a2dc75ab085d1e8db8ac548c5faf370af17f28dd2ef3b52b7b"
+      ]
+    },
+    {
+      "name": "intl",
+      "version": "0.20.3",
+      "licenseTextHashes": [
+        "7e124af6a556f045cb3a20cafbdaa31602ac2c82cbcb3c3b15faaaf514b06028"
+      ]
+    },
+    {
+      "name": "jni",
+      "version": "1.1.2",
+      "licenseTextHashes": [
+        "08a004aa8956c3cf3b24f7f69c966247233953e18e6afaa61191ea47b7eb70f6"
+      ]
+    },
+    {
+      "name": "jni_flutter",
+      "version": "1.0.4+1",
+      "licenseTextHashes": [
+        "b1fcb475d67817411f335ac92872507011e574c4cb29cfdaaf7707b75641932c"
+      ]
+    },
+    {
+      "name": "jni_util",
+      "version": "1.0.0",
+      "licenseTextHashes": [
+        "b1fcb475d67817411f335ac92872507011e574c4cb29cfdaaf7707b75641932c"
+      ]
+    },
+    {
+      "name": "listen",
+      "version": "1.0.1",
+      "licenseTextHashes": [
+        "420f7739f169097f0aad1242045169cd643c8f1d94e62866fad265ae4c369b7d"
+      ]
+    },
+    {
+      "name": "logging",
+      "version": "1.3.0",
+      "licenseTextHashes": [
+        "dfb09c74e29386cd3e2719f32d4995d59526179753931d31840757c77fbf2791"
+      ]
+    },
+    {
+      "name": "material_color_utilities",
+      "version": "0.13.0",
+      "licenseTextHashes": [
+        "d103f246ef4c18dab8af0c1dcf6a8af884e5cff554da7261a48ac43c17d98f2e"
+      ]
+    },
+    {
+      "name": "material_ui",
+      "version": "1.11.0",
+      "licenseTextHashes": [
+        "420f7739f169097f0aad1242045169cd643c8f1d94e62866fad265ae4c369b7d"
+      ]
+    },
+    {
+      "name": "meta",
+      "version": "1.19.0",
+      "licenseTextHashes": [
+        "b71519245009a3b8f126196a5408ec031e216e8e0d985085958c6543f82a8a2a"
+      ]
+    },
+    {
+      "name": "objective_c",
+      "version": "9.6.4",
+      "licenseTextHashes": [
+        "1cda25a8de6880c5338de0b4a06ee89e8537c213eb1379c16a4c035bfd198b5c"
+      ]
+    },
+    {
+      "name": "package_config",
+      "version": "3.0.0",
+      "licenseTextHashes": [
+        "0371d1da6a57fb791db29d29b95333429205f51f3cb2eb3a0c12d91838a38744"
+      ]
+    },
+    {
+      "name": "path",
+      "version": "1.9.1",
+      "licenseTextHashes": [
+        "3c32b53167c7dae9190c38dab5dd9fe1789c53623ebc7d1babcb29914c5b3f16"
+      ]
+    },
+    {
+      "name": "path_provider",
+      "version": "2.1.6",
+      "licenseTextHashes": [
+        "420f7739f169097f0aad1242045169cd643c8f1d94e62866fad265ae4c369b7d"
+      ]
+    },
+    {
+      "name": "path_provider_android",
+      "version": "2.3.1",
+      "licenseTextHashes": [
+        "420f7739f169097f0aad1242045169cd643c8f1d94e62866fad265ae4c369b7d"
+      ]
+    },
+    {
+      "name": "path_provider_foundation",
+      "version": "2.6.0",
+      "licenseTextHashes": [
+        "420f7739f169097f0aad1242045169cd643c8f1d94e62866fad265ae4c369b7d"
+      ]
+    },
+    {
+      "name": "path_provider_linux",
+      "version": "2.2.2",
+      "licenseTextHashes": [
+        "420f7739f169097f0aad1242045169cd643c8f1d94e62866fad265ae4c369b7d"
+      ]
+    },
+    {
+      "name": "path_provider_platform_interface",
+      "version": "2.1.3",
+      "licenseTextHashes": [
+        "420f7739f169097f0aad1242045169cd643c8f1d94e62866fad265ae4c369b7d"
+      ]
+    },
+    {
+      "name": "path_provider_windows",
+      "version": "2.3.0",
+      "licenseTextHashes": [
+        "89519eca6f7b9529b35bdddd623a58c3af06a88c458dbd6531ddb4675acf75a9"
+      ]
+    },
+    {
+      "name": "platform",
+      "version": "3.2.0",
+      "licenseTextHashes": [
+        "143839f62c9b7f88143ea9f688361c27050888acde7696b34e04414bd254fafc"
+      ]
+    },
+    {
+      "name": "plugin_platform_interface",
+      "version": "2.1.8",
+      "licenseTextHashes": [
+        "89519eca6f7b9529b35bdddd623a58c3af06a88c458dbd6531ddb4675acf75a9"
+      ]
+    },
+    {
+      "name": "pub_semver",
+      "version": "2.2.1",
+      "licenseTextHashes": [
+        "3c32b53167c7dae9190c38dab5dd9fe1789c53623ebc7d1babcb29914c5b3f16"
+      ]
+    },
+    {
+      "name": "record_use",
+      "version": "1.1.1",
+      "licenseTextHashes": [
+        "1cda25a8de6880c5338de0b4a06ee89e8537c213eb1379c16a4c035bfd198b5c"
+      ]
+    },
+    {
+      "name": "sky_engine",
+      "version": "0.0.0",
+      "licenseTextHashes": [
+        "0d5050142d6b4605704d8844fcd5656ac23e718cf8f7d1e41149950da5edb4ef"
+      ]
+    },
+    {
+      "name": "source_span",
+      "version": "1.10.2",
+      "licenseTextHashes": [
+        "3c32b53167c7dae9190c38dab5dd9fe1789c53623ebc7d1babcb29914c5b3f16"
+      ]
+    },
+    {
+      "name": "string_scanner",
+      "version": "1.4.1",
+      "licenseTextHashes": [
+        "3c32b53167c7dae9190c38dab5dd9fe1789c53623ebc7d1babcb29914c5b3f16"
+      ]
+    },
+    {
+      "name": "term_glyph",
+      "version": "1.2.2",
+      "licenseTextHashes": [
+        "ea97a7558a7bd7cee4e2355f7529e3cbebb0dcbb546ddb9a90f10c9eb6b08da5"
+      ]
+    },
+    {
+      "name": "vector_math",
+      "version": "2.4.3",
+      "licenseTextHashes": [
+        "420f7739f169097f0aad1242045169cd643c8f1d94e62866fad265ae4c369b7d"
+      ]
+    },
+    {
+      "name": "web",
+      "version": "1.1.2",
+      "licenseTextHashes": [
+        "aa913ff50d7542eb8cc35b9f48a80928ac6819ba9057f85d424655e3e8dc271c"
+      ]
+    },
+    {
+      "name": "win32",
+      "version": "6.4.0",
+      "licenseTextHashes": [
+        "87ef8bccdd619f2345ba5b9026cf1d6cccb305e36ab83849a8a3af9293abde7e"
+      ]
+    },
+    {
+      "name": "xdg_directories",
+      "version": "1.1.0",
+      "licenseTextHashes": [
+        "89519eca6f7b9529b35bdddd623a58c3af06a88c458dbd6531ddb4675acf75a9"
+      ]
+    },
+    {
+      "name": "yaml",
+      "version": "3.1.4",
+      "licenseTextHashes": [
+        "d47b93335401b052d79a2f5a3710e4cf7b5aed782faedf84d40fbdd6eb934ec7"
+      ]
+    }
+  ],
+  "androidModules": [
+    {
+      "group": "org.jetbrains.kotlin",
+      "name": "kotlin-stdlib",
+      "version": "2.4.20",
+      "declaredLicenses": [
+        {
+          "name": "Apache-2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "org.jetbrains",
+      "name": "annotations",
+      "version": "23.0.0",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "org.jetbrains.kotlin",
+      "name": "kotlin-stdlib-jdk8",
+      "version": "1.8.20",
+      "declaredLicenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "org.jetbrains.kotlin",
+      "name": "kotlin-stdlib-jdk7",
+      "version": "1.8.20",
+      "declaredLicenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "org.jetbrains.kotlin",
+      "name": "kotlin-stdlib-common",
+      "version": "2.4.20",
+      "declaredLicenses": [
+        {
+          "name": "Apache-2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "io.flutter",
+      "name": "armeabi_v7a_release",
+      "version": "1.0.0-371f77202a73e8dff57a8b3bff75bca55c090aee",
+      "declaredLicenses": [],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "not stated in available POM; see aggregate SDK notices"
+    },
+    {
+      "group": "io.flutter",
+      "name": "arm64_v8a_release",
+      "version": "1.0.0-371f77202a73e8dff57a8b3bff75bca55c090aee",
+      "declaredLicenses": [],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "not stated in available POM; see aggregate SDK notices"
+    },
+    {
+      "group": "io.flutter",
+      "name": "x86_64_release",
+      "version": "1.0.0-371f77202a73e8dff57a8b3bff75bca55c090aee",
+      "declaredLicenses": [],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "not stated in available POM; see aggregate SDK notices"
+    },
+    {
+      "group": "com.google.crypto.tink",
+      "name": "tink-android",
+      "version": "1.21.0",
+      "declaredLicenses": [
+        {
+          "name": "Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "androidx.annotation",
+      "name": "annotation-jvm",
+      "version": "1.8.2",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "com.google.code.findbugs",
+      "name": "jsr305",
+      "version": "3.0.2",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "com.google.code.gson",
+      "name": "gson",
+      "version": "2.13.2",
+      "declaredLicenses": [
+        {
+          "name": "Apache-2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "com.google.errorprone",
+      "name": "error_prone_annotations",
+      "version": "2.41.0",
+      "declaredLicenses": [
+        {
+          "name": "Apache 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "io.flutter",
+      "name": "flutter_embedding_release",
+      "version": "1.0.0-371f77202a73e8dff57a8b3bff75bca55c090aee",
+      "declaredLicenses": [],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "not stated in available POM; see aggregate SDK notices"
+    },
+    {
+      "group": "androidx.lifecycle",
+      "name": "lifecycle-common",
+      "version": "2.7.0",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "androidx.annotation",
+      "name": "annotation",
+      "version": "1.8.1",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "org.jetbrains.kotlinx",
+      "name": "kotlinx-coroutines-android",
+      "version": "1.7.1",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "org.jetbrains.kotlinx",
+      "name": "kotlinx-coroutines-core",
+      "version": "1.7.1",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "org.jetbrains.kotlinx",
+      "name": "kotlinx-coroutines-core-jvm",
+      "version": "1.7.1",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "org.jetbrains.kotlinx",
+      "name": "kotlinx-coroutines-bom",
+      "version": "1.7.1",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "androidx.lifecycle",
+      "name": "lifecycle-common-java8",
+      "version": "2.7.0",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "androidx.lifecycle",
+      "name": "lifecycle-process",
+      "version": "2.7.0",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "androidx.lifecycle",
+      "name": "lifecycle-runtime",
+      "version": "2.7.0",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "androidx.arch.core",
+      "name": "core-common",
+      "version": "2.2.0",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "androidx.arch.core",
+      "name": "core-runtime",
+      "version": "2.2.0",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "androidx.profileinstaller",
+      "name": "profileinstaller",
+      "version": "1.3.1",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "androidx.concurrent",
+      "name": "concurrent-futures",
+      "version": "1.1.0",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "com.google.guava",
+      "name": "listenablefuture",
+      "version": "1.0",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "androidx.startup",
+      "name": "startup-runtime",
+      "version": "1.1.1",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "androidx.tracing",
+      "name": "tracing",
+      "version": "1.2.0",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "androidx.lifecycle",
+      "name": "lifecycle-livedata-core",
+      "version": "2.7.0",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "androidx.lifecycle",
+      "name": "lifecycle-livedata",
+      "version": "2.7.0",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "androidx.lifecycle",
+      "name": "lifecycle-livedata-core-ktx",
+      "version": "2.7.0",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "androidx.lifecycle",
+      "name": "lifecycle-viewmodel",
+      "version": "2.7.0",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "androidx.lifecycle",
+      "name": "lifecycle-viewmodel-savedstate",
+      "version": "2.7.0",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "androidx.core",
+      "name": "core-ktx",
+      "version": "1.13.1",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "androidx.core",
+      "name": "core",
+      "version": "1.13.1",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "androidx.annotation",
+      "name": "annotation-experimental",
+      "version": "1.4.0",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "androidx.collection",
+      "name": "collection",
+      "version": "1.1.0",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "androidx.interpolator",
+      "name": "interpolator",
+      "version": "1.0.0",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "androidx.versionedparcelable",
+      "name": "versionedparcelable",
+      "version": "1.1.1",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "androidx.savedstate",
+      "name": "savedstate",
+      "version": "1.2.1",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "androidx.fragment",
+      "name": "fragment",
+      "version": "1.7.1",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "androidx.activity",
+      "name": "activity",
+      "version": "1.8.1",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "androidx.loader",
+      "name": "loader",
+      "version": "1.0.0",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "androidx.viewpager",
+      "name": "viewpager",
+      "version": "1.0.0",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "androidx.customview",
+      "name": "customview",
+      "version": "1.0.0",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "androidx.window",
+      "name": "window-java",
+      "version": "1.2.0",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "androidx.window",
+      "name": "window",
+      "version": "1.2.0",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "androidx.window.extensions.core",
+      "name": "core",
+      "version": "1.0.0",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "com.getkeepsafe.relinker",
+      "name": "relinker",
+      "version": "1.4.5",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "androidx.exifinterface",
+      "name": "exifinterface",
+      "version": "1.4.1",
+      "declaredLicenses": [
+        {
+          "name": "The Apache Software License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [
+        "META-INF/androidx/exifinterface/exifinterface/LICENSE.txt"
+      ],
+      "declarationCoverage": "declared in POM or cached parent"
+    },
+    {
+      "group": "org.jspecify",
+      "name": "jspecify",
+      "version": "1.0.0",
+      "declaredLicenses": [
+        {
+          "name": "The Apache License, Version 2.0",
+          "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+        }
+      ],
+      "archiveNoticeEntries": [],
+      "declarationCoverage": "declared in POM or cached parent"
+    }
+  ],
+  "sourceHashes": {
+    "pubspecLock": "f958daec35e3ca6bd8de2dc804c1a7b2b04df7a5cfeca12841d1ceac850db863"
+  },
+  "windowsRuntime": [
+    {
+      "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+      "version": "10.0.15",
+      "licenseTextHashes": [
+        "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b",
+        "307d014f65d8482314f1400ddeae7a0cbabb96c2207bcc77f6233cc10588e5d9"
+      ]
+    },
+    {
+      "name": "Microsoft.NETCore.App.Runtime.win-x64",
+      "version": "10.0.15",
+      "licenseTextHashes": [
+        "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b",
+        "6d15e10a101c6bfff2ab4429ed061bf76c456fc4b23ad6b03e0d0f8377148a21"
+      ]
+    },
+    {
+      "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+      "version": "10.0.15",
+      "licenseTextHashes": [
+        "a89886665765362eb77e0f8e26602c924520041d1711b2eedc136434fe4d01ab"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <title>EasyConnection</title>
+  <desc>A desktop monitor and a phone with two opposing connection arrows.</desc>
+  <rect x="48" y="48" width="928" height="928" rx="224" fill="#111b2e"/>
+  <rect x="412" y="608" width="96" height="112" rx="24" fill="#91adff"/>
+  <rect x="304" y="700" width="308" height="40" rx="20" fill="#91adff"/>
+  <rect x="168" y="248" width="588" height="392" rx="52" fill="#91adff"/>
+  <rect x="208" y="288" width="508" height="312" rx="20" fill="#182941"/>
+  <polygon points="300,384 500,384 500,352 560,412 500,472 500,440 300,440" fill="#f1f6ff"/>
+  <polygon points="560,500 360,500 360,468 300,528 360,588 360,556 560,556" fill="#64e9d9"/>
+  <rect x="624" y="382" width="228" height="398" rx="52" fill="#64e9d9"/>
+  <rect x="662" y="422" width="152" height="314" rx="20" fill="#111b2e"/>
+  <rect x="694" y="438" width="88" height="12" rx="6" fill="#64e9d9"/>
+  <rect x="708" y="751" width="60" height="12" rx="6" fill="#111b2e"/>
+</svg>

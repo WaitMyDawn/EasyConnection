@@ -1,0 +1,22 @@
+name: easy_connection
+description: Direct Windows remote control and reusable desktop workflows.
+publish_to: none
+version: 0.4.1+5
+environment:
+  sdk: '>=3.14.0 <4.0.0'
+  flutter: '>=3.50.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  crypto: ^3.0.6
+  flutter_secure_storage: ^10.0.0
+  material_ui: ^1.11.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/licenses/LICENSE
+    - assets/licenses/THIRD-PARTY-NOTICES.txt

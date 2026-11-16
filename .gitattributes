@@ -1,0 +1,7 @@
+* text=auto eol=lf
+# Preserve whitespace from redistributed upstream license texts.
+third_party/**/NOTICE.txt -whitespace
+apps/mobile/assets/licenses/THIRD-PARTY-NOTICES.txt -whitespace
+*.ico binary
+*.png binary
+*.jar binary
